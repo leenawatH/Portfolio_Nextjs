@@ -1,4 +1,4 @@
-Weighted-Interval-Scheduling-Problem-Dynamic-Algorithm
+#Weighted-Interval-Scheduling-Problem-Dynamic-Algorithm
 
 Design a dynamic programming algorithm that solves weighted interval scheduling problem. Your algorithm should return the exact subset S′⊆S
  rather than the maximum weight of S′
