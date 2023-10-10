@@ -1,5 +1,6 @@
 
 import React from 'react'
+import DP_Derangement from './components/DP_Derangement_Form'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function Home() {
@@ -7,8 +8,9 @@ export default function Home() {
     <main>
       <div>
       <h1 className="text-center">
-        Home Page
+        Derangement Calculator
       </h1>
+      <DP_Derangement />
     </div>
     </main>
   )
